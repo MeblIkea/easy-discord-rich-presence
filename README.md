@@ -1,5 +1,5 @@
 # easy-discord-rich-presence
---
+
 You must create a discord application :
 Go to https://discord.com/developers/applications
 Click "New Application", name your application and then click on it
