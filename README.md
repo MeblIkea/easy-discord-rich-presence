@@ -1,6 +1,17 @@
 # easy-discord-rich-presence
 
-**THE LAST VERSION IS THE 1.0.1**
+**THE LAST VERSION IS THE 1.0.2**
+--
+This app work with Python 3
+If modules can't be installed use PyCharm or:
+
+On Linux : Go to the terminal
+  enter "sudo apt-get install python3-pip"
+  then "pip3 install psutil" (change psutil by what you need)
+
+On Mac : After you install pip, enter : "pip3 install psutil" (change psutil by what you need)
+
+On Windows : You must use PyCharm
 --
 You must create a discord application :
 Go to https://discord.com/developers/applications
